@@ -1,0 +1,8 @@
+Name,Math,Science,English
+Alice,45,78,88
+Bob,67,82,90    
+Charlie,55,60,70
+David,80,85,90  
+Eve,90,92,95
+Frank,70,75,80
+import csv
